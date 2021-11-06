@@ -1,3 +1,6 @@
 [submodule "iam-common-msgs"]
 	path = iam-common-msgs
 	url = https://github.com/iamlab-cmu/iam-common-msgs.git
+[submodule "web-interface-msgs"]
+	path = web-interface-msgs
+	url = https://github.com/iamlab-cmu/web-interface-msgs.git
