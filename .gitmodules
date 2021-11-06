@@ -4,3 +4,6 @@
 [submodule "web-interface-msgs"]
 	path = web-interface-msgs
 	url = https://github.com/iamlab-cmu/web-interface-msgs.git
+[submodule "domain-handler-msgs"]
+	path = domain-handler-msgs
+	url = https://github.com/iamlab-cmu/domain-handler-msgs.git
