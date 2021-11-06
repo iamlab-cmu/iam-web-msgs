@@ -7,3 +7,6 @@
 [submodule "domain-handler-msgs"]
 	path = domain-handler-msgs
 	url = https://github.com/iamlab-cmu/domain-handler-msgs.git
+[submodule "franka-interface-msgs"]
+	path = franka-interface-msgs
+	url = https://github.com/iamlab-cmu/franka-interface-msgs.git
