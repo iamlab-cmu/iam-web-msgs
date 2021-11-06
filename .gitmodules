@@ -10,3 +10,9 @@
 [submodule "franka-interface-msgs"]
 	path = franka-interface-msgs
 	url = https://github.com/iamlab-cmu/franka-interface-msgs.git
+[submodule "bokeh-server-msgs"]
+	path = bokeh-server-msgs
+	url = https://github.com/iamlab-cmu/bokeh-server-msgs.git
+[submodule "iam-vision-msgs"]
+	path = iam-vision-msgs
+	url = https://github.com/iamlab-cmu/iam-vision-msgs.git
