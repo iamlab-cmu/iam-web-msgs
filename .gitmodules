@@ -16,3 +16,9 @@
 [submodule "iam-vision-msgs"]
 	path = iam-vision-msgs
 	url = https://github.com/iamlab-cmu/iam-vision-msgs.git
+[submodule "voxel-msgs"]
+	path = voxel-msgs
+	url = https://github.com/iamlab-cmu/voxel-msgs.git
+[submodule "dextr-msgs"]
+	path = dextr-msgs
+	url = https://github.com/iamlab-cmu/dextr-msgs.git
